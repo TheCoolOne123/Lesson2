@@ -1,0 +1,13 @@
+name: Lesson2
+version: 1.0
+main: nl.xcodiq.lesson2.Main
+authors: [xCodiq]
+description: Plugin for Java coding lessons #2
+
+commands:
+    iamnew:
+        description: The IAmNew Command!
+        aliases: [help, whatnow]
+    lesson2:
+        description: The Lesson2 Command!
+        aliases: [l2]

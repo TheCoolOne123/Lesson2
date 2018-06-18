@@ -1,0 +1,3 @@
+join: '&a%USERNAME% &7wants to party! :)'
+quit: '&c%USERNAME% &7doesn''t want to party! :('
+first-join: '&5> &7WELCOME, &6%USERNAME%&7! Show him the party! &5<'
